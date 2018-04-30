@@ -4,7 +4,7 @@ the first lab is a drawing of plantes with a line thought them
 [visit github!](https://github.com/bryantyme59/MADG-150-assignments-/tree/master/s18magd150lab01_Bryan%20-%20Copy)
 
 The second lab is a still image of four ballons connected to a box. 
-[visit github!](
+[visit github!](https://github.com/bryantyme59/MADG-150-assignments-/tree/master/s18magd150lab02_bryan)
 
 the third lab is a empty circle that follows the mouse across the screen
 [visit github!](https://github.com/bryantyme59/MADG-150-assignments-/tree/master/s18magd150lab03_bryan)
